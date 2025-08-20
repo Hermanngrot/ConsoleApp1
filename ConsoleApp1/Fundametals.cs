@@ -52,6 +52,9 @@ public static class Fundametals
             case "Friday":
                 Console.WriteLine("Almost weekend!");
                 break;
+            case "Tuesday":
+                Console.WriteLine("four days until weekend!");
+                break;
             default:
                 Console.WriteLine("Just another day");
                 break;
